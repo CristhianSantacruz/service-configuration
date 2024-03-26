@@ -12,3 +12,5 @@ I
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+I
+product-microservice.json,7\d\7dd0051ccabd6c9557aed1e6daafaa368d447659
